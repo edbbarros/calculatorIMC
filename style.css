@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+*{
+    padding: 0;
+}
+
+#area
+{
+    margin-left: 38%;
+    margin-top:15%;
+    padding-left: 0cm;
+}
+#head
+{
+    text-align: center;
+    font-size: 40px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+fieldset
+{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+legend{
+    font-style:bold;
+    font-family: "segoe UI","Arial","Times New Roman", sans-serif;
+}
+.botton
+{
+margin-top: 40%;
+margin-left: 40%;
+border-radius: 3px;
+border-color: black;
+width: 70px;
+}
+#altura{
+    font-size: 20px; 
+    font-family: 'Roboto', sans-serif;
+    margin-top:55%;
+}
